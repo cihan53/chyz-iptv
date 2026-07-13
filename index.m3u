@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" group-title="Countries" country="TR",Turkey
+https://raw.githubusercontent.com/cihan53/chyz-iptv/main/TR/index.m3u
+#EXTINF:-1 tvg-id="" group-title="Countries" country="US",United States
+https://raw.githubusercontent.com/cihan53/chyz-iptv/main/US/index.m3u
+#EXTINF:-1 tvg-id="" group-title="Countries" country="GB",United Kingdom
+https://raw.githubusercontent.com/cihan53/chyz-iptv/main/GB/index.m3u
+#EXTINF:-1 tvg-id="" group-title="Countries" country="UK",United Kingdom
+https://raw.githubusercontent.com/cihan53/chyz-iptv/main/UK/index.m3u
+#EXTINF:-1 tvg-id="" group-title="Countries" country="DE",Germany
+https://raw.githubusercontent.com/cihan53/chyz-iptv/main/DE/index.m3u
+#EXTINF:-1 tvg-id="" group-title="Countries" country="FR",France
+https://raw.githubusercontent.com/cihan53/chyz-iptv/main/FR/index.m3u
+#EXTINF:-1 tvg-id="" group-title="Countries" country="IT",Italy
+https://raw.githubusercontent.com/cihan53/chyz-iptv/main/IT/index.m3u
+#EXTINF:-1 tvg-id="" group-title="Countries" country="ES",Spain
+https://raw.githubusercontent.com/cihan53/chyz-iptv/main/ES/index.m3u
+#EXTINF:-1 tvg-id="" group-title="Countries" country="NL",Netherlands
+https://raw.githubusercontent.com/cihan53/chyz-iptv/main/NL/index.m3u
+#EXTINF:-1 tvg-id="" group-title="Countries" country="RU",Russia
+https://raw.githubusercontent.com/cihan53/chyz-iptv/main/RU/index.m3u
+#EXTINF:-1 tvg-id="" group-title="Countries" country="JP",Japan
+https://raw.githubusercontent.com/cihan53/chyz-iptv/main/JP/index.m3u
+#EXTINF:-1 tvg-id="" group-title="Countries" country="KR",South Korea
+https://raw.githubusercontent.com/cihan53/chyz-iptv/main/KR/index.m3u
+#EXTINF:-1 tvg-id="" group-title="Countries" country="CN",China
+https://raw.githubusercontent.com/cihan53/chyz-iptv/main/CN/index.m3u
+#EXTINF:-1 tvg-id="" group-title="Countries" country="IN",India
+https://raw.githubusercontent.com/cihan53/chyz-iptv/main/IN/index.m3u
+#EXTINF:-1 tvg-id="" group-title="Countries" country="BR",Brazil
+https://raw.githubusercontent.com/cihan53/chyz-iptv/main/BR/index.m3u
+#EXTINF:-1 tvg-id="" group-title="Countries" country="AR",Argentina
+https://raw.githubusercontent.com/cihan53/chyz-iptv/main/AR/index.m3u
+#EXTINF:-1 tvg-id="" group-title="Countries" country="MX",Mexico
+https://raw.githubusercontent.com/cihan53/chyz-iptv/main/MX/index.m3u
+#EXTINF:-1 tvg-id="" group-title="Countries" country="CA",Canada
+https://raw.githubusercontent.com/cihan53/chyz-iptv/main/CA/index.m3u
